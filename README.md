@@ -1,10 +1,9 @@
 
-[![MasterHead](https://cdn.dribbble.com/users/116207...)]
+
 
 <h1 align="center">Hi 👋, I'm Ahnaf Tahmid Hasan</h1>
 <h3 align="center">Passionate front-end developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/python.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnaf-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="ahnaf-hasan" /> </p>
 
