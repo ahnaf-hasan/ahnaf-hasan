@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi Everyone 👋, I'm Ahnaf Tahmid Hasan</h1>
+<h1 align="center">Hi, Everyone 👋 I'm Ahnaf Tahmid Hasan</h1>
 <h3 align="center">Passionate front-end developer from Bangladesh</h3>
 
 
