@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/ahnaf ahnaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/ahnafhasan/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahnaf ahnaf" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/coder_tahmid" target="blank"><img align="center" src="https://raw.githubusercontent.com/ahnafhasan/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="coder_tahmid" height="30" width="40" /></a>
+<a href="https://fb.com/ahnaf ahnaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahukdkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahnaf ahnaf" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/coder_tahmid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahukdkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="coder_tahmid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
