@@ -1,9 +1,11 @@
 
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 
 <h1 align="center">Hi, Everyone 👋 I'm Ahnaf Tahmid Hasan</h1>
 <h3 align="center">Passionate front-end developer from Bangladesh</h3>
+
+![](https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnaf-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="ahnaf-hasan" /> </p>
