@@ -7,6 +7,9 @@
 
 ![](https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif)
 
+My core skill is based on javaScript and Machine Learning , Deep Learning and I also love to do most of the things with javaScript.I am Skilled At MERN Stack. I have a strong passion
+for learning & implementing new web technologies and standards. I’m  studying Computer Science and Engineering  at University Of Information Technology & Sciences, Bangladesh.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnaf-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="ahnaf-hasan" /> </p>
 
