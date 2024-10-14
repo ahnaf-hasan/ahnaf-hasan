@@ -11,8 +11,6 @@ My core skills are based on JavaScript, Machine Learning, and Deep Learning, and
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahnaf-hasan" alt="ahnaf-hasan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a> </p>
-
 - 🌱 I’m currently learning **DevOps.**
 - 💬 Ask me about **Android, MERN Stack.**
 - 📫 How to reach me: **ahnaf.cse8741@gmail.com**
