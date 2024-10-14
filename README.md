@@ -5,7 +5,7 @@
   <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" alt="Glitching Hacker" width="100%" />
 </p>
 
-My core skills are based on JavaScript, Machine Learning, and Deep Learning, and I love to do most of my work with JavaScript. I am skilled in the MERN stack and have a strong passion for learning and implementing new web technologies and standards. I completed my B.S.C. in Computer Science and Engineering from the University of Information Technology & Sciences and am currently studying Cyber Security at Bangladesh University of Professionals in Dhaka, Bangladesh.
+My core skills are based on JavaScript, Machine Learning, and Deep Learning, and I love to do most of my work with JavaScript. I am skilled in the MERN stack and have a strong passion for learning and implementing new web technologies and standards. I completed my B.S.C. in Computer Science and Engineering from the University of Information Technology & Sciences and I am currently studying Cyber Security at Bangladesh University of Professionals in Dhaka, Bangladesh.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnaf-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
