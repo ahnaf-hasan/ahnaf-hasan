@@ -10,7 +10,7 @@ My core skills are based on JavaScript, Machine Learning, and Deep Learning, and
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnaf-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahnaf-hasan" alt="ahnaf-hasan" /></a> </p>
 
 
 - 🌱 I’m currently learning **DevOps.**
