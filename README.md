@@ -11,9 +11,7 @@ My core skills are based on JavaScript, Machine Learning, and Deep Learning, and
 
 
 
-<p align="left">
-  Check out <a href="https://github.com/ahnaf-hasan">Ahnaf Hasan's GitHub profile</a>.
-</p>
+
 
 - 🌱 I’m currently learning **DevOps.**
 - 💬 Ask me about **Android, MERN Stack.**
