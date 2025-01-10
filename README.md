@@ -28,6 +28,7 @@ My core skills are based on JavaScript, Machine Learning, and Deep Learning, and
 </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahnaf-hasan&show_icons=true&locale=en&layout=compact" alt="ahnaf-hasan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahnaf-hasan&show_icons=true&locale=en" alt="ahnaf-hasan" /></p>
 
