@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Everyone 👋 I'm Ahnaf Tahmid Hasan</h1>
-<h3 align="center">Cyber Security Analyst and Front-End developer from Bangladesh</h3>
+<h3 align="center">Cyber Security Analyst and Front-End Developer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" alt="Glitching Hacker" width="100%" />
@@ -12,7 +12,7 @@ My core skills are based on JavaScript, Machine Learning, and Deep Learning, and
 
 - 🌱 I’m currently learning **DevOps.**
 - 💬 Ask me about **Android, MERN Stack.**
-- 📫 How to reach me: **ahnaf.cse8741@gmail.com**
+- 📫 How to reach me: **ahnaf.hasan02@gmail.com**
 - ⚡ Fun fact: **I think, I am Simple.**
 
 <h3 align="left">Connect with me:</h3>
