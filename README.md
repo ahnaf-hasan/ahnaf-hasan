@@ -1,11 +1,11 @@
 <h1 align="center">Hi, Everyone 👋 I'm Ahnaf Tahmid Hasan</h1>
-<h3 align="center">Cyber Security Analyst and Front-End Developer from Bangladesh</h3>
+<h3 align="center">Cyber Security Enthusiast and Front-End Developer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" alt="Glitching Hacker" width="100%" />
 </p>
 
-My core skills are based on JavaScript, Machine Learning, and Deep Learning, and I love to do most of my work with JavaScript. I am skilled in the Cyber Security, MERN stack and have a strong passion for learning and implementing new web technologies and standards. I completed my B.S.C. in Computer Science and Engineering from the University of Information Technology & Sciences and I am currently studying Cyber Security at Bangladesh University of Professionals in Dhaka, Bangladesh.
+My core skills are based on JavaScript, Machine Learning, and Deep Learning, and I love to do most of my work with Python, JavaScript, Machine Learning and Deep Learning. I am skilled in the Cyber Security, MERN stack and have a strong passion for learning and implementing new web technologies and standards. I completed my B.S.C. in Computer Science and Engineering from the University of Information Technology & Sciences and I am currently studying Cyber Security at Bangladesh University of Professionals in Dhaka, Bangladesh.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnaf-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
@@ -18,7 +18,7 @@ My core skills are based on JavaScript, Machine Learning, and Deep Learning, and
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/ahnaf ahnaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahnaf ahnaf" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ahnaf.hasan02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahnaf ahnaf" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/coder_tahmid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="coder_tahmid" height="30" width="40" /></a>
 <a href="https://judge.beecrowd.com/en/profile/936927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="coder_tahmid" height="30" width="40" /></a>
 </p>
