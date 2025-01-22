@@ -5,12 +5,12 @@
   <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" alt="Glitching Hacker" width="100%" />
 </p>
 
-My core skills are based on JavaScript, Machine Learning, and Deep Learning, and I love to do most of my work with Python, JavaScript, Machine Learning and Deep Learning. I am skilled in the Cyber Security, MERN stack and have a strong passion for learning and implementing new web technologies and standards. I completed my B.S.C. in Computer Science and Engineering from the University of Information Technology & Sciences and I am currently studying Cyber Security at Bangladesh University of Professionals in Dhaka, Bangladesh.
+My core skills are based on JavaScript, Machine Learning, Deep Learning, and I love to do most of my work with Python, JavaScript, Machine Learning and Deep Learning. I am skilled in the Cyber Security, MERN stack and have a strong passion for learning and implementing new web technologies and standards. I completed my B.S.C. in Computer Science and Engineering from the University of Information Technology & Sciences and I am currently studying Cyber Security at Bangladesh University of Professionals in Dhaka, Bangladesh.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnaf-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 
-- 🌱 I’m currently learning **DevOps.**
+- 🌱 I’m currently learning **DevOps and SOM.**
 - 💬 Ask me about **Android, MERN Stack.**
 - 📫 How to reach me: **ahnaf.hasan02@gmail.com**
 - ⚡ Fun fact: **I think, I am Funny.**
