@@ -5,13 +5,13 @@
   <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" alt="Glitching Hacker" width="100%" />
 </p>
 
-My core skills are based on JavaScript, Machine Learning, Deep Learning and I love to do most of my work with Python, JavaScript, Machine Learning and Deep Learning. I am skilled in the Cyber Security, MERN stack and have a strong passion for learning and implementing new web technologies and standards. I completed my B.S.C. in Computer Science and Engineering from the University of Information Technology & Sciences and I am currently studying Cyber Security at Bangladesh University of Professionals in Dhaka, Bangladesh.
+I am skilled in Cyber Security and IT Audit, with hands-on experience in various cybersecurity tools such as Wireshark, Burp Suite, Nmap, Metasploit, and Nessus. I also have experience with IT audit tools like OpenVAS, Splunk, OSSEC, AuditBoard, ACL (Galvanize), and CaseWare IDEA. Additionally, I am familiar with GRC (Governance, Risk, and Compliance) platforms and frameworks including ISO 27001, COBIT, and NIST CSF (Cybersecurity Framework).Fun fact: Over 90% of cyber attacks start with phishing emails, which inspires me to focus on building stronger defenses. My core skills are centered around JavaScript, Machine Learning, and Deep Learning, and I enjoy working extensively with Python and JavaScript. I have a strong passion for learning and implementing modern web technologies, security standards, and auditing practices. I completed my B.Sc. in Computer Science and Engineering from the University of Information Technology & Sciences, and I am currently pursuing Cyber Security studies at the Bangladesh University of Professionals in Dhaka, Bangladesh.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnaf-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 
-- 🌱 I’m currently learning **DevOps and SOM.**
-- 💬 Ask me about **Android, MERN Stack.**
+- 🌱 I’m currently learning **Cloud Security and Malware Analysis.**
+- 💬 Ask me about **Cybersecurity, IT Audit.**
 - 📫 How to reach me: **ahnaf.hasan02@gmail.com**
 - ⚡ Fun fact: **I think, I am Funny.**
   
