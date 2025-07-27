@@ -11,7 +11,7 @@ Fun fact: Over 90% of cyberattacks start with phishing emails, which inspires me
 
 My core skills are centered around JavaScript, Machine Learning, and Deep Learning. I particularly enjoy working extensively with Python and JavaScript. I have a strong passion for learning and implementing modern web technologies, security standards, and auditing practices.
 
-I completed my B.Sc. in Computer Science and Engineering from the University of Information Technology & Sciences and am currently pursuing studies in Cybersecurity at the Bangladesh University of Professionals in Dhaka, Bangladesh.
+I completed my B.Sc. in Computer Science and Engineering from the University of Information Technology & Sciences and I am currently pursuing studies in Cybersecurity at the Bangladesh University of Professionals in Dhaka, Bangladesh.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnaf-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
