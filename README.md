@@ -19,7 +19,7 @@ I completed my B.Sc. in Computer Science and Engineering from the University of 
 - 🌱 I’m currently learning **Reverse Engineering, Cloud Security and Malware Analysis.**
 - 💬 Ask me about **Cybersecurity, IT Audit and AI.**
 - 📫 How to reach me: **ahnaf.hasan02@gmail.com**
-- ⚡ Fun fact: **I think, I am Funny.**
+- ⚡ Fun fact: **I think, I am Simple.**
   
 
 <h3 align="left">Connect with me:</h3>
