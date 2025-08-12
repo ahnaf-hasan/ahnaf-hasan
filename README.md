@@ -7,7 +7,7 @@
 
 I am skilled in Cybersecurity and IT Audit, with hands-on experience in various cybersecurity tools such as Wireshark, Burp Suite, Nmap, Metasploit, Lynis, and Nessus. I also have experience with IT audit tools like OpenVAS, Splunk, OSSEC, AuditBoard, ACL (Galvanize), and CaseWare IDEA. Additionally, I am familiar with GRC (Governance, Risk, and Compliance) platforms and frameworks, including ISO 27001, COBIT, and the NIST Cybersecurity Framework (CSF).
 
-Fun fact: Over 80% to 90% of cyberattacks start with phishing emails, which inspires me to focus on building stronger defenses.
+Fun fact: Over 80% to 90% of cyber attacks start with phishing emails, which inspires me to focus on building stronger defenses.
 
 My core skills are centered around JavaScript, Machine Learning, and Deep Learning. I particularly enjoy working extensively with Python and JavaScript. I have a strong passion for learning and implementing modern web technologies, security standards, and auditing practices.
 
