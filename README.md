@@ -16,7 +16,7 @@ I completed my B.Sc. in Computer Science and Engineering from the University of 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnaf-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 
-- 🌱 I’m currently learning **Reverse Engineering, Cloud Security and Malware Analysis.**
+- 🌱 I’m currently learning **Reverse Engineering, Cloud Security, Malware Analysis and N8n Automation.**
 - 💬 Ask me about **Cybersecurity, IT Audit and AI.**
 - 📫 How to reach me: **cyberworldinfosecbd@gmail.com**
 - ⚡ Fun fact: **I think, I am Simple.**
