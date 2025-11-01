@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Everyone 👋 This is Ahnaf Tahmid Hasan from Bangladesh</h1>
-<h3 align="center">Cybersecurity Enthusiast, also Founder & CEO @ Cyber World Infosec</h3>
+<h3 align="center">Cybersecurity Expert, also Founder & CEO @ Cyber World Infosec</h3>
 
 <p align="center">
   <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" alt="Glitching Hacker" width="100%" />
