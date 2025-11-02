@@ -17,7 +17,7 @@ I completed my B.Sc. in Computer Science and Engineering from the University of 
 
 
 - 🌱 I’m currently learning **Reverse Engineering, Cloud Security, Malware Analysis and N8n Automation.**
-- 💬 Ask me about **Cybersecurity, IT Audit and AI.**
+- 💬 Ask me about **Cybersecurity, IT Audit, SOC and AI.**
 - 📫 How to reach me: **cyberworldinfosecbd@gmail.com**
 - ⚡ Fun fact: **I think, I am Simple.**
   
