@@ -5,7 +5,7 @@
   <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" alt="Glitching Hacker" width="100%" />
 </p>
 
-I am skilled in Cybersecurity and IT Audit, with hands-on experience in various cybersecurity tools such as Wireshark, Burp Suite, Nmap, Metasploit, Lynis, and Nessus. I also have experience with IT audit tools like OpenVAS, Splunk, OSSEC, AuditBoard, ACL (Galvanize), and CaseWare IDEA. Additionally, I am familiar with GRC (Governance, Risk, and Compliance) platforms and frameworks, including ISO 27001, COBIT,   NIST Cybersecurity Framework (CSF) and also Social Economic and Regulatory Aspects of Cyber Security.
+I am skilled in Cybersecurity and IT Audit, with hands-on experience in various cybersecurity tools such as Wireshark, Burp Suite, Nmap, Metasploit, Lynis, and Nessus. I also have experience with IT audit tools like OpenVAS, Splunk, OSSEC, AuditBoard, ACL (Galvanize), and CaseWare IDEA. Additionally, I am familiar with GRC (Governance, Risk, and Compliance) platforms and frameworks, including ISO 27001, COBIT,   NIST Cybersecurity Framework (CSF)  Social Economic and Regulatory Aspects of Cyber Security, Cloud Computing & Security and also N8N Automation.
 
 Fun fact: Over 90% of cyber attacks start with phishing emails, which inspires me to focus on building stronger defenses.
 
@@ -16,7 +16,7 @@ I completed my B.Sc. in Computer Science and Engineering from the University of 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnaf-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 
-- 🌱 I’m currently learning **Reverse Engineering, Cloud Security, Malware Analysis and N8n Automation.**
+- 🌱 I’m currently learning **Reverse Engineering and Malware Analysis**
 - 💬 Ask me about **Cybersecurity, IT Audit, SOC and AI.**
 - 📫 How to reach me: **cyberworldinfosecbd@gmail.com**
 - ⚡ Fun fact: **I think, I am Simple.**
