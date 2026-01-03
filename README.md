@@ -5,13 +5,15 @@
   <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" alt="Glitching Hacker" width="100%" />
 </p>
 
-I am skilled in Cybersecurity and IT Audit, with hands-on experience in various cybersecurity tools such as Wireshark, Burp Suite, Nmap, Metasploit, Lynis, and Nessus. I also have experience with IT audit tools like OpenVAS, Splunk, OSSEC, AuditBoard, ACL (Galvanize), and CaseWare IDEA. Additionally, I am familiar with GRC (Governance, Risk, and Compliance) platforms and frameworks, including ISO 27001, COBIT,   NIST Cybersecurity Framework (CSF) , Reverse Engineering and Social Economic and Regulatory Aspects of Cyber Security, Cloud Computing & Security and also N8N Automation.
+I am skilled in Cybersecurity and IT Audit, with hands-on experience using a wide range of cybersecurity tools, including Wireshark, Burp Suite, Nmap, Metasploit, Lynis, and Nessus. I also have practical experience with IT audit and monitoring tools such as OpenVAS, Splunk, OSSEC, AuditBoard, ACL (Galvanize), and CaseWare IDEA.
 
-Fun fact: Over 90% of cyber attacks start with phishing emails, which inspires me to focus on building stronger defenses.
+Additionally, I am familiar with GRC (Governance, Risk, and Compliance) platforms and industry-standard frameworks, including ISO/IEC 27001, COBIT, and the NIST Cybersecurity Framework (CSF). My academic and practical exposure also includes Reverse Engineering, the Social, Economic, and Regulatory Aspects of Cybersecurity, Cloud Computing & Security, and workflow automation using n8n.
 
-My core skills are centered around JavaScript, Machine Learning, and Deep Learning. I particularly enjoy working extensively with Python and JavaScript. I have a strong passion for learning and implementing modern web technologies, security standards, and auditing practices.
+Fun fact: Over 90% of cyberattacks begin with phishing emails, which inspires me to focus on building stronger and more resilient security defenses.
 
-I completed my B.Sc. in Computer Science and Engineering from the University of Information Technology & Sciences and I am currently pursuing studies in Cybersecurity at the Bangladesh University of Professionals in Dhaka, Bangladesh.
+My core technical skills include JavaScript, Machine Learning, and Deep Learning. I particularly enjoy working extensively with Python and JavaScript. I am highly passionate about continuously learning and implementing modern web technologies, cybersecurity standards, and IT auditing best practices.
+
+I completed my B.Sc. in Computer Science and Engineering from the University of Information Technology & Sciences and am currently pursuing advanced studies in Cybersecurity at the Bangladesh University of Professionals (BUP), Dhaka, Bangladesh.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnaf-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
