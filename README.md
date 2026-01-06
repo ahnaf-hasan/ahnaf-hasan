@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Everyone 👋 This is Ahnaf Tahmid Hasan from Bangladesh</h1>
-<h3 align="center">Cybersecurity Expert, also Founder & CEO @ Cyber World Infosec</h3>
+<h3 align="center">Cybersecurity Expert and Founder @ Cyber World Infosec</h3>
 
 <p align="center">
   <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" alt="Glitching Hacker" width="100%" />
@@ -9,7 +9,7 @@ I am skilled in Cybersecurity and IT Audit, with hands-on experience using a wid
 
 Additionally, I am familiar with GRC (Governance, Risk, and Compliance) platforms and industry-standard frameworks, including ISO/IEC 27001, COBIT, and the NIST Cybersecurity Framework (CSF). My academic and practical exposure also includes Reverse Engineering, the Social, Economic, and Regulatory Aspects of Cybersecurity, Cloud Computing & Security, and workflow automation using n8n.
 
-Fun fact: Most cyberattacks involve Social Engineering. Over 90% of cyberattacks begin with phishing emails, which inspires me to focus on building stronger and more resilient security defenses.
+Fun fact: Most cyber attacks involve Social Engineering. Over 90% of cyberattacks begin with phishing emails, which inspires me to focus on building stronger and more resilient security defenses.
 
 My core technical skills include JavaScript, Machine Learning, and Deep Learning. I particularly enjoy working extensively with Python and JavaScript. I am highly passionate about continuously learning and implementing modern web technologies, cybersecurity standards, and IT auditing best practices.
 
