@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Everyone 👋 This is Ahnaf Tahmid Hasan from Bangladesh<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/0621a642-a7f8-4f02-9515-ba406e03b081"/></h1>
+<h1 align="center">Hi, Everyone 👋 This is Ahnaf Tahmid Hasan from Bangladesh.<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/915344b6-373d-410a-ad44-9f381e6f9330" /></h1>
 <h3 align="center">Cybersecurity Expert and Founder @ Cyber World Infosec</h3>
 
 <p align="center">
