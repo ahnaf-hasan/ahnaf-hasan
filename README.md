@@ -15,11 +15,18 @@ I am skilled in Cybersecurity and IT Audit, with hands-on experience using a wid
 
 Additionally, I am familiar with GRC (Governance, Risk, and Compliance) platforms and industry-standard frameworks, including ISO/IEC 27001, COBIT, and the NIST Cybersecurity Framework (CSF). My academic and practical exposure also includes Reverse Engineering; The Social, Economic, and Regulatory Aspects of Cybersecurity; Cloud Computing and Security; and workflow automation using n8n.
 
-Fun fact: Most cyberattacks involve social engineering. Over 90% of cyberattacks begin with phishing emails, which has inspired me to focus on building stronger and more resilient security defenses.
+🔐Fun fact: Most cyberattacks involve social engineering. Over 90% of cyberattacks begin with phishing emails, which has inspired me to focus on building stronger and more resilient security defenses.
 
-My core technical skills include JavaScript, Machine Learning, and Deep Learning. I particularly enjoy working extensively with Python and JavaScript. I am highly passionate about continuously learning and implementing modern web technologies, cybersecurity standards, and IT auditing best practices.
+💻 Technical Skills:
 
-I completed my B.Sc. in Computer Science and Engineering from the University of Information Technology & Sciences and currently pursuing M.Sc. in Cybersecurity at the Bangladesh University of Professionals (BUP), Dhaka, Bangladesh
+   🟨   JavaScript
+   🐍   Python
+   🤖   Machine Learning 
+   🧠   Deep Learning
+
+I am passionate about continuously learning and applying modern web technologies, cybersecurity standards, and IT auditing best practices.
+
+🎓I completed my B.Sc. in Computer Science and Engineering from the University of Information Technology & Sciences and currently pursuing M.Sc. in Cybersecurity at the Bangladesh University of Professionals (BUP), Dhaka, Bangladesh
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnaf-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
