@@ -71,17 +71,13 @@ I am passionate about continuously learning and applying modern web technologies
   <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" alt="Wireshark"/>
 </a>
 
-<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/burp/FF6633" width="40" alt="Burp Suite"/>
-</a>
+
 
 <a href="https://nmap.org/" target="_blank" rel="noreferrer">
   <img src="https://nmap.org/images/nmap-logo-256x256.png" width="40" alt="Nmap"/>
 </a>
 
-<a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-original.svg" width="40" alt="Metasploit"/>
-</a>
+
 
 <!-- SIEM / SOC -->
 <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
