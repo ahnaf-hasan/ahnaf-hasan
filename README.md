@@ -63,7 +63,7 @@ I am passionate about continuously learning and applying modern web technologies
 </a>
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" alt="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" alt="Bash"/>
 </a>
 
 <!-- Cybersecurity Tools -->
@@ -72,7 +72,7 @@ I am passionate about continuously learning and applying modern web technologies
 </a>
 
 <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" width="40" alt="Burp Suite"/>
+  <img src="https://cdn.simpleicons.org/burp/FF6633" width="40" alt="Burp Suite"/>
 </a>
 
 <a href="https://nmap.org/" target="_blank" rel="noreferrer">
@@ -88,8 +88,8 @@ I am passionate about continuously learning and applying modern web technologies
   <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" alt="Splunk"/>
 </a>
 
-<a href="https://www.elastic.co/security" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" alt="Elastic Stack"/>
+<a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="40" alt="Elastic Stack"/>
 </a>
 
 <!-- Cloud & DevOps -->
@@ -98,7 +98,7 @@ I am passionate about continuously learning and applying modern web technologies
 </a>
 
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" alt="Azure"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" alt="Azure"/>
 </a>
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -106,7 +106,7 @@ I am passionate about continuously learning and applying modern web technologies
 </a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
 </a>
 
 <!-- OS -->
@@ -115,8 +115,6 @@ I am passionate about continuously learning and applying modern web technologies
 </a>
 
 </p>
-
-
 
 
 
