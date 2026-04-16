@@ -1,11 +1,9 @@
 <h1 align="center">
-Hi, Everyone 👋 This is Ahnaf Tahmid Hasan from Bangladesh
+  Hi, Everyone 👋 This is Ahnaf Tahmid Hasan from Bangladesh 🇧🇩
   <img src="https://flagcdn.com/60x45/bd.png"
-       srcset="https://flagcdn.com/120x90/bd.png 2x,
-               https://flagcdn.com/180x135/bd.png 3x"
        width="60"
        height="45"
-       alt="Bangladesh">
+       alt="Bangladesh Flag">
 </h1>
 <h2 align="center">Cybersecurity Expert and SOC Analyst</h2>
 
