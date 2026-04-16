@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, Everyone 👋 This is Ahnaf Tahmid Hasan from Bangladesh 🇧🇩
+  Hi, Everyone 👋 This is Ahnaf Tahmid Hasan from 🇧🇩
   <img src="https://flagcdn.com/60x45/bd.png"
        width="60"
        height="45"
