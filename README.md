@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>
-    Hi, Everyone 👋 This is Ahnaf Tahmid Hasan from Bangladesh.
+    Hi, Everyone 👋 This is Ahnaf Tahmid Hasan from Bangladesh
   </h1>
 
   <img src="https://flagcdn.com/120x90/bd.png"
@@ -10,7 +10,7 @@
        alt="Bangladesh Flag">
 </div>
 
-<h2 align="center">Cybersecurity Expert and SOC Analyst</h2>
+<h1 align="center">Cybersecurity Expert and SOC Analyst</h1>
 
 <p align="center">
   <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" alt="Glitching Hacker" width="100%" />
