@@ -5,7 +5,7 @@
   </h1>
 
   <img src="https://flagcdn.com/120x90/bd.png"
-       width="60"
+       width="65"
        height="45"
        alt="Bangladesh Flag">
 </div>
