@@ -10,7 +10,7 @@
        alt="Bangladesh Flag">
 </div>
 
-<h1 align="center">Cybersecurity Expert and SOC Analyst</h1>
+<h1 align="center">Cybersecurity Expert</h1>
 
 <p align="center">
   <img src="https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif" alt="Glitching Hacker" width="100%" />
