@@ -16,13 +16,14 @@
 
 I am skilled in Cybersecurity and IT Audit, with hands-on experience using a wide range of cybersecurity tools, including Wireshark, Burp Suite, Nmap, Metasploit, Lynis, and Nessus. I also have practical experience with IT audit and monitoring tools such as OpenVAS, Splunk, OSSEC, AuditBoard, ACL (Galvanize), and CaseWare IDEA.
 
-Additionally, I am familiar with GRC (Governance, Risk, and Compliance) platforms and industry-standard frameworks, including ISO/IEC 27001, COBIT, and the NIST Cybersecurity Framework (CSF). My academic and practical exposure also includes Reverse Engineering; The Social, Economic, and Regulatory Aspects of Cybersecurity; Cloud Computing and Security; and workflow automation using n8n.
+Additionally, I am familiar with GRC (Governance, Risk, and Compliance) platforms and industry-standard frameworks, including ISO/IEC 27001, COBIT, and the NIST Cybersecurity Framework (CSF). 
 
-Fun fact: Most cyberattacks involve social engineering. Over 90% of cyberattacks begin with phishing emails, which has inspired me to focus on building stronger and more resilient security defenses.
+A key fact is that most cyberattacks involve social engineering. Over 90% of cyberattacks begin with phishing emails, which has inspired me to focus on building stronger and more resilient security defenses.
 
-My core technical skills include JavaScript, Machine Learning, and Deep Learning. I particularly enjoy working extensively with Python and JavaScript. I am highly passionate about continuously learning and implementing modern web technologies, cybersecurity standards, and IT auditing best practices.
 
-I completed my B.Sc. in Computer Science and Engineering from the University of Information Technology & Sciences and currently pursuing M.Sc. in Cybersecurity at the Bangladesh University of Professionals (BUP), Dhaka, Bangladesh
+I completed my B.Sc. in Computer Science and Engineering from the University of Information Technology & Sciences and am currently pursuing an M.Sc. in Cybersecurity at the Bangladesh University of Professionals (BUP), Dhaka, Bangladesh.
+
+🧠 Core Technical Skills: 🐍 Python, 🤖 Machine Learning, 🧬 Deep Learning, 🟨 JavaScript
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahnaf-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
